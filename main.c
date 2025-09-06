@@ -1,5 +1,5 @@
 /*
- * Name: Dominic Pressler
+ * Name: Linn
  * Description: Make an array that takes in 4 students grades,
  * find the average, minimum, and maximum
  * Date: 09/03/25
